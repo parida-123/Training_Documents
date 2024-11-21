@@ -8,7 +8,7 @@ Day 31: 12th Sep. 2024
 	
 	Docker!!!!
 	
-	Containerization :::
+	Containerization ::::::::::
 	
 		--> Containerization is a process of packaging the application along with its dependencies!
 	
