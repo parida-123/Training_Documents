@@ -4,7 +4,7 @@ Day 22: 26th Aug. 2024
 
 	Version Control System Using GIT ::::
 	
-	Version Control System :::
+	Version Control System :::::::
 		
 	Application Developer !
 	
